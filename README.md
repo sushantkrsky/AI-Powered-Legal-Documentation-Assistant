@@ -227,8 +227,10 @@ python app.py
     ![about_page](./assets/image-5.png)
 
 ## Contributors
-- [Sumedha](https://github.com/sumedha08)
+
+- [Vipanchi D Prasanna](https://github.com/vipanchip)
 - [Varsha S](https://github.com/varshasathyaprakash)
+- [Sumedha](https://github.com/sumedha08)
   
 
 ## References
