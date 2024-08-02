@@ -228,7 +228,8 @@ python app.py
 
 ## Contributors
 - [Sumedha](https://github.com/sumedha08)
-
+- [Varsha S](https://github.com/varshasathyaprakash)
+  
 
 ## References
 - [LawRato](https://lawrato.com/legal-documents) for the dataset of legal documents.
