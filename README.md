@@ -27,7 +27,9 @@ Legal documentation can be a complicated and time-consuming process, especially 
 
 3. Ability to customize legal documents based on the specific needs of the user. 
 
-4. Integration with existing legal resources and databases to ensure accuracy and completeness of the legal documents. 
+4. Integration with existing legal resources and databases to ensure accuracy and completeness of the legal documents.
+
+5. Implemented an authentication system to ensure a seamless user experience and restrict access to the main page until users are logged in.
 
 **Impact**: The proposed solution can greatly benefit individuals and small businesses in India, who often face challenges with legal documentation due to limited access to legal resources. By simplifying legal documentation, this solution can potentially save time, reduce errors, and increase access to justice. 
 
