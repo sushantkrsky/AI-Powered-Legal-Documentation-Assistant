@@ -230,7 +230,7 @@ python app.py
 
 - [Vipanchi D Prasanna](https://github.com/vipanchip)
 - [Varsha S](https://github.com/varshasathyaprakash)
-- [Sumedha](https://github.com/sumedha08)
+- [Sumedha](https://github.com/sumedharoy08)
   
 
 ## References
